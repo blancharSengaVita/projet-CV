@@ -1,0 +1,9 @@
+/*
+src/images/.DS_Store
+!.gitignore
+!.readme.md
+!/src
+!/index.php
+!/.lando.yml
+!/package.json
+!/webpack.mix.js

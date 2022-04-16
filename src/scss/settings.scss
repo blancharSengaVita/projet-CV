@@ -1,0 +1,47 @@
+//colors
+$font-title: #141e37;
+$white: #FFF;
+$black: #000;
+$grey: #7E7E7E;
+$cyan: #32c8ff;
+
+//fonts
+@font-face {
+    font-family: "spiegel";
+    src: url("/src/fonts/spiegel.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "gt-america";
+    src: url("/src/fonts/GTAmericaCompressed Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: "roboto";
+    src: url("src/fonts/Roboto-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "beaufort-lol";
+    src: url("/src/fonts/Roboto-Regular.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "beaufort-lol";
+    src: url("/src/fonts/beaufortforlol-heavy.woff2") format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
